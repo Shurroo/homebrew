@@ -1,0 +1,3 @@
+Some Homebrew taps, packages or casks may not have been installed.
+See the output and logs for more details.
+

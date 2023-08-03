@@ -1,0 +1,4 @@
+Homebrew taps, packages and casks have been installed.
+Update Homebrew: `brew update`
+List outdated casks: `brew outdated --cask --greedy`
+Upgrade one cask: `brew upgrade <cask_name>`

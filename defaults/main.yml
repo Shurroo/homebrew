@@ -1,0 +1,12 @@
+---
+
+# Don't create a log file
+write_log_file: false
+
+homebrew_cask_appdir: /Applications
+
+homebrew_taps: []
+homebrew_packages: []
+homebrew_casks: []
+
+...
